@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CRUD-by-Spring-MVC-Hibernate-Maven-and-MySQL-master">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../CRUD-by-Spring-MVC-Hibernate-Maven-and-MySQL-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../CRUD-by-Spring-MVC-Hibernate-Maven-and-MySQL-master/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
